@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stasys (@donela)
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python egs
-- 💞️ I’m looking to collaborate on Python nest
+- 👀 I’m interested in React and Python
+- 🌱 I’m currently learning React reactiveness and as always new things in Python
+- 💞️ I’m looking to collaborate on React and Python
 - 📫 How to reach me stasys@donela.lt
 
 <!---
